@@ -1,0 +1,123 @@
+{
+   "nodes" : [
+      {"node" : 0, "name" : ""},
+      {"node" : 1, "name" : ""},
+      {"node" : 2, "name" : "Узбекистан"},
+      {"node" : 3, "name" : "Таджикистан"},
+      {"node" : 4, "name" : "Кыргызстан"},
+      {"node" : 5, "name" : "Армения"},
+      {"node" : 6, "name" : "Азербайджан"},
+      {"node" : 7, "name" : "Молдова"},
+      {"node" : 8, "name" : "Казахстан"},
+      {"node" : 9, "name" : "Украина"},
+      {"node" : 10, "name" : "Беларусь"},
+      {"node" : 11, "name" : ""},
+      {"node" : 12, "name" : "США"},
+      {"node" : 13, "name" : "Швейцария"},
+      {"node" : 14, "name" : "Турция"},
+      {"node" : 15, "name" : "Британия"},
+      {"node" : 16, "name" : "Германия"},
+      {"node" : 17, "name" : "Франция"},
+      {"node" : 18, "name" : "Грузия"},
+      {"node" : 19, "name" : "Другие"}
+   ],
+   "links" : [
+      {
+         "source" : 0,
+         "value" : 69.3,
+         "target" : 1
+      },
+      {
+         "value" : 35.56,
+         "source" : 1,
+         "target" : 2
+      },
+      {
+         "target" : 3,
+         "value" : 13.24,
+         "source" : 1
+      },
+      {
+         "target" : 4,
+         "value" : 8,
+         "source" : 1
+      },
+      {
+         "target" : 5,
+         "value" : 4.74,
+         "source" : 1
+      },
+      {
+         "target" : 6,
+         "value" : 3.11,
+         "source" : 1
+      },
+      {
+         "target" : 7,
+         "value" : 1.58,
+         "source" : 1
+      },
+      {
+         "target" : 8,
+         "value" : 1.35,
+         "source" : 1
+      },
+      {
+         "target" : 9,
+         "value" : 0.9,
+         "source" : 1
+      },
+      {
+         "target" : 10,
+         "value" : 0.7,
+         "source" : 1
+      },
+     {
+         "target" : 11,
+         "value" : 30.7,
+         "source" : 0
+      },
+     {
+         "target" : 12,
+         "value" : 3.56,
+         "source" : 11
+      },
+    {
+         "target" : 13,
+         "value" : 2.81,
+         "source" : 11
+      },
+    {
+         "target" : 14,
+         "value" : 2.7,
+         "source" : 11
+      },
+    {
+         "target" : 15,
+         "value" : 1.71,
+         "source" : 11
+      },
+    {
+         "target" : 16,
+         "value" : 1.59,
+         "source" : 11
+      },
+    {
+         "target" : 17,
+         "value" : 1.2,
+         "source" : 11
+      },
+    {
+         "target" : 18,
+         "value" : 1.3,
+         "source" : 11
+      },
+
+    {
+         "target" : 19,
+         "value" : 15.98,
+         "source" : 11
+      }
+
+   ]
+}
